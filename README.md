@@ -1,6 +1,6 @@
 # ESG-and-Financial-Performance-Dashboard-Excel
 
-![image](https://github.com/krrusha/krrusha.github.io/blob/main/esg-financial-performance-analysis/images/excel-dashboard.png)
+![image](https://github.com/krrusha/ESG-Financial-Performance-Analysis/blob/main/images/excel-dashboard.png)
 
 
 ## Data Used
@@ -17,5 +17,4 @@ Data Cleaning & Transformation – Power Query (Excel)
 Data Modeling & Analysis – Power Pivot (Data Model) + DAX + PivotTables
 
 Data Visualization – Excel Dashboard (PivotCharts + Charts + Slicers)
-
 
